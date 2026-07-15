@@ -1,0 +1,4 @@
+# Site estático de arquivo único: não há build.
+[build]
+  publish = "."
+  command = ""

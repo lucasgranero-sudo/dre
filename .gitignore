@@ -1,0 +1,16 @@
+# dependências
+node_modules/
+
+# sistema
+.DS_Store
+Thumbs.db
+
+# editores
+.vscode/
+.idea/
+*.swp
+
+# planilhas de teste (dados reais de cliente NÃO devem ir para o repositório)
+*.xlsx
+*.xls
+*.csv
